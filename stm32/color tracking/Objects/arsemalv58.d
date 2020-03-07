@@ -1,0 +1,13 @@
+.\objects\arsemalv58.o: arsemalv58.cpp
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\stm32f10x.h
+.\objects\arsemalv58.o: .\RTE\_Target_1\RTE_Components.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\PACK\Keil\STM32F1xx_DFP\2.2.0\Device\Include\system_stm32f10x.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\arsemalv58.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdarg.h
+.\objects\arsemalv58.o: stm32f103C8_gpio.h
